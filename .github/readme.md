@@ -28,6 +28,6 @@ As you can see, the pavement has grass.  However, this grass is only aligned to 
 Any time an object lands, it creates a big noise and releases a lot of energy, thus dust is kicked up in random directions by them. These billboards don't fully face the camera either, because when they dissapear below the plane it looks very bad if the whole thing dissapears at once.  A small tilt means it dissapears more gradually.  Also, the billboards are deleted once the fall underground for efficiency.
 
 #### Other notes:
-The game quits when you lose
-The game is fullscreen
+The game quits when you lose  
+The game is fullscreen  
 The game can be quit with the esc key
