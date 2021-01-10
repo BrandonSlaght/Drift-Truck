@@ -1,5 +1,9 @@
 # DriftTruck
 
+[![CodeFactor](https://www.codefactor.io/repository/github/brandonslaght/drift-truck/badge)](https://www.codefactor.io/repository/github/brandonslaght/drift-truck)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/BrandonSlaght/drift-truck/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs%3F-welcome-green.svg)](https://github.com/BrandonSlaght/drift-truck/blob/master/.github/contributing.md)
+
 ## A game by Brandon Slaght
 
 A weird alien ship swung over a few forests and abducted a bunch of trees for their experiemnts, but a malfunction caused them to all fall out of the ship.  As the owner of a terrible parking garage, you must push all the trees off the top of the garage so they don't interrupt business while avoiding being flattened yourself!
@@ -28,6 +32,6 @@ As you can see, the pavement has grass.  However, this grass is only aligned to 
 Any time an object lands, it creates a big noise and releases a lot of energy, thus dust is kicked up in random directions by them. These billboards don't fully face the camera either, because when they dissapear below the plane it looks very bad if the whole thing dissapears at once.  A small tilt means it dissapears more gradually.  Also, the billboards are deleted once the fall underground for efficiency.
 
 #### Other notes:
-The game quits when you lose
-The game is fullscreen
+The game quits when you lose  
+The game is fullscreen  
 The game can be quit with the esc key
